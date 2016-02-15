@@ -1,0 +1,19 @@
+text for profile page
+
+<h2>Background</h2>
+          <p>I'm a graduate of The Art Institute of Pittsburgh. I graduated with an Associate Degree in Computer Animation and Multimedia. I'd dreamt of being a 2D animator since The first time I saw The Jetsons. At the time of graduation, however, I decided to pursue another dream... 
+
+         <p><span class="pjSite"><a href="http://www.girardpizzajoes.com" target="_blank">I bought a pizza shop!</a></span></p>
+          
+          <p>I have spent the past 14 years as an Owner/ Operator of local pizza shop. This unique opportunity has provided me with experience in providing <em>excellent customer service and effective communication</em>. Designing menus, direct mail pieces, posters and signs. Increasing sales through digital marketing and social media branding. As well as paying close attention to the details in store and with the product. Concistency is always a priority. Developing meaningful relationships within the community has made fundraising programs easy , fun and pram willing to go <strong>above and beyond in any position</strong>, whether it means staying late to finish a job or coming in early to cover a shift. In addition to be flexible and responsive, I master new skills quickly. Growth of an organization depends on the dedication, hard work and ability of each and every employee. I am dedicated towards my work and do not quit until I meet the desired results and because of that I feel that I would be an asset to</p>
+      </div> 
+
+      <div class="card">
+        <h2>Goals</h2>
+
+
+        <p>After a successful yet mildly fulfilling run, I am ready to hang up my pizza cutter. I need to follow my bliss. 
+        I must satisfy my creative drive as it keeps gnawing at me from the inside. 
+
+         I am learning web design as well as web development on my own time through paid online courses. I am still in the trenches at the pizza shop, so the courses are self taught and taking longer than I'd hoped. But I am really excited to start a new creative career and was hoping you could be of some help. I'm not sure where to start looking for work Or if I'm even ready yet. </p>
+        <p>I want to master the process of building web sites and increase my knowledge, skills and abilities in:</p>
