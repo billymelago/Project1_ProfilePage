@@ -17,6 +17,7 @@ body {
     font-weight: 400;
     color: #40707F;
     background: #f7f5f0;
+    min-height: 320px;
 }
 /* Link Styles */
 
@@ -39,7 +40,6 @@ h3 {
     font-family: 'Lato', sans-serif;
     font-weight: 900;
     font-size: 2em;
-    color: #40707F;
     margin-bottom: 0;
 }
 
@@ -137,7 +137,7 @@ header {
     background: 
         linear-gradient(
         rgba(150, 224, 255, 0.95) 40%,
-        rgba(255, 255, 255, 0.85) , 
+        rgba(255, 255, 255, 0.85), 
         rgba(253, 255, 255, 0.95)
     ),
       url('images/background-(2).png') no-repeat top center ;
@@ -151,9 +151,10 @@ header {
 
 .home-header {
     display: flex;
-    flex-flow: wrap column-reverse;
+    flex-flow: nowrap column-reverse;
     justify-content: space-around;
     align-items: flex-start;
+    padding-top: 115px;
 }
 
  .profile-image {
@@ -232,7 +233,7 @@ header {
 
 #background,
 #goals {
-    color: darkturquoise;
+    color: #33ccff;
     font-family: 'Kaushan Script', cursive; 
     font-size: 2em;
     padding-top: 90px;
@@ -261,7 +262,7 @@ li.htmlIcon {
 }
 
 li.cssIcon {
-    background: url( "../images/css3.png" ) no-repeat center;
+    background: url( "images/css3.png" ) no-repeat center;
     background-size: cover;
 }
 
@@ -393,7 +394,7 @@ a.social:hover {
 
 
 /* Styles for larger screens */ 
-@media screen and (min-width: 720px) {
+@media screen and (min-width: 760px) {
 
     
     /* Section Styles */
@@ -585,7 +586,7 @@ header {
 
 #background,
 #goals {
-    color: darkturquoise;
+    color: #33ccff;
     font-family: 'Kaushan Script', cursive; 
     font-size: 2em;
     letter-spacing: -2px;
@@ -615,7 +616,7 @@ li.htmlIcon {
 }
 
 li.cssIcon {
-    background: url( "../images/css3.png" ) no-repeat center;
+    background: url( "images/css3.png" ) no-repeat center;
     background-size: contain;
 }
 
@@ -794,3 +795,5 @@ a.social:hover {
   }
 
 }
+
+@
